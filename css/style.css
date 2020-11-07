@@ -1,0 +1,258 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    text-align: center;
+}
+body {
+  background-image: url('../img/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div {
+  width: 100%;
+  height: 100%;
+  padding: 0 25%;
+}
+
+section {
+  width: 25%;
+  height: 250px;
+  float: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: auto;
+  margin:
+}
+
+div + a img {
+  position: fixed;
+  right: 25px;
+  top: 48%;
+  width: 20%;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 100px;
+  background-image: linear-gradient(to right, blue , red );
+}
+
+aside img {
+  position: fixed;
+  left: 25px;
+  top: 28%;
+  width: 20%;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 100px;
+  background-image: linear-gradient(to right, blue , red );
+}
+
+#magic {
+  top: 60%;
+}
+
+button {
+  display: none;
+}
+.card0, .card1, .card2, .card3, .card4, .card5, .card6, .card7, .card8, .card9, .card10,
+.card11, .card12, .card13, .card14, .card15, .card16, .card17, .card18, .card19, .card20,
+.card21, .card22, .card23, .card24, .card25, .card26, .card27, .card28, .card29, .card30,
+.card31, .card32, .card33, .card34, .card35, .card36, .card37, .card38, .card39, .card40, .flip {
+background-size: contain;
+background-repeat: no-repeat;
+transform-style: preserve-3d;
+  transition: all .4s linear;
+}
+.card0 {
+  background-image: url('../img/card0.jpg');
+}
+
+.card1 {
+  background-image: url('../img/card1.gif');
+}
+
+.card2 {
+  background-image: url('../img/card2.gif');
+}
+
+.card3 {
+  background-image: url('../img/card3.gif');
+}
+
+.card4 {
+  background-image: url('../img/card4.gif');
+}
+
+.card5 {
+  background-image: url('../img/card5.gif');
+}
+
+.card6 {
+  background-image: url('../img/card6.jpg');
+}
+
+.card7 {
+  background-image: url('../img/card7.gif');
+}
+
+.card8 {
+  background-image: url('../img/card8.gif');
+}
+
+.card9 {
+  background-image: url('../img/card9.gif');
+
+}
+
+.card10 {
+  background-image: url('../img/card10.gif');
+}
+
+.card11 {
+  background-image: url('../img/card11.gif');
+}
+
+.card12 {
+  background-image: url('../img/card12.jpg');
+}
+
+.card13 {
+  background-image: url('../img/card13.gif');
+}
+
+.card14 {
+  background-image: url('../img/card14.gif');
+}
+
+.card15 {
+  background-image: url('../img/card15.gif');
+}
+
+.card16 {
+  background-image: url('../img/card16.gif');
+}
+
+.card17 {
+  background-image: url('../img/card17.gif');
+}
+
+.card18 {
+  background-image: url('../img/card18.png');
+}
+
+.card19 {
+  background-image: url('../img/card19.gif');
+}
+
+.card20 {
+  background-image: url('../img/card20.gif');
+}
+
+.card21 {
+  background-image: url('../img/card21.gif');
+}
+
+.card22 {
+  background-image: url('../img/card22.gif');
+}
+
+.card23 {
+  background-image: url('../img/card23.gif');
+}
+
+.card24 {
+  background-image: url('../img/card24.jpeg');
+}
+
+.card25 {
+  background-image: url('../img/card25.gif');
+}
+
+.card26 {
+  background-image: url('../img/card26.gif');
+}
+
+.card27 {
+  background-image: url('../img/card27.jpg');
+}
+
+.card28 {
+  background-image: url('../img/card28.gif');
+}
+
+.card29 {
+  background-image: url('../img/card29.jpg');
+}
+
+.card30 {
+  background-image: url('../img/card30.gif');
+}
+
+.card31 {
+  background-image: url('../img/card31.jpeg');
+}
+
+.card32 {
+  background-image: url('../img/card32.gif');
+}
+
+.card33 {
+  background-image: url('../img/card33.gif');
+}
+
+.card34 {
+  background-image: url('../img/card34.jpg');
+}
+
+.card35 {
+  background-image: url('../img/card35.jpg');
+}
+
+.card36 {
+  background-image: url('../img/card36.jpg');
+}
+
+.card37 {
+  background-image: url('../img/card37.jpeg');
+}
+
+.card38 {
+  background-image: url('../img/card38.jpg');
+}
+
+.flip{
+  transform: rotateY(180deg);
+/* background-image: url('https://i.imgur.com/yPm1jkq.jpg'); */
+background-image: url('https://i.imgur.com/mUR23te.jpg');
+}
+
+h2 {
+    background: linear-gradient(to bottom, #cfc09f 22%,#634f2c 24%, #cfc09f 26%, #cfc09f 27%,#ffecb3 40%,#3a2c0f 78%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #fff;
+font-family: 'Playfair Display', serif;
+    position: relative;
+	text-transform: uppercase;
+	font-size: 15rem;
+	margin: 0;
+	font-weight: 400;
+}
+
+h2:after {
+    background: none;
+    content: attr(data-heading);
+    left: 0;
+	top: 0;
+    z-index: -1;
+    position: absolute;
+    text-shadow:
+		-1px 0 1px #c6bb9f,
+		0 1px 1px #c6bb9f,
+		5px 5px 10px rgba(0, 0, 0, 0.4),
+		-5px -5px 10px rgba(0, 0, 0, 0.4);
+}
