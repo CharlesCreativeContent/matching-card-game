@@ -256,3 +256,18 @@ h2:after {
 		5px 5px 10px rgba(0, 0, 0, 0.4),
 		-5px -5px 10px rgba(0, 0, 0, 0.4);
 }
+
+
+@media screen and (max-width: 1000px){
+	section{
+		width: 16.66vw;
+		height: 25vh;
+	}
+}
+
+@media screen and (max-width: 500px){
+	section{
+		width: 25vw;
+		height: 16.5vh;
+	}
+}
