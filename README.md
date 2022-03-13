@@ -18,7 +18,7 @@ Don't forget to update the media queries to make sure everyone can see your cont
 
 
 
-## Other Projects
+## More Projects
 
 
 
