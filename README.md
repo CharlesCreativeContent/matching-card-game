@@ -43,7 +43,7 @@ Don't forget to update the media queries to make sure everyone can see your cont
 <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
         <br />
         <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
     </td>
   </tr>
