@@ -19,40 +19,28 @@ Don't forget to update the media queries to make sure everyone can see your cont
 
 
 ## Other Projects
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
 
-<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
-
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug"> Rigley2-"FlappyBug"</a>
-
-"width:33%;background-image:url(https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif);background-size:cover;">
-  
-
-"width:33%;background-image:url(https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif);background-size:cover;">
-
-
-"width:33%;background-image:url(https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif);background-size:cover;">
 
 
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="33.3%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug"> Rigley2-"FlappyBug"</a>
         <br />
       <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
             <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
       <br />
         <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
           <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%" alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-      <h3 align="center">Portfolio</h3>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
         <br />
         <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
           <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Portfolio"/>
