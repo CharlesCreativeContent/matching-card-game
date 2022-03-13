@@ -13,3 +13,14 @@ When I improve this project, I would update my media queries and would focus on 
 ## Lessons Learned:
 
 Don't forget to update the media queries to make sure everyone can see your content, rather than just the people that have a screen size like yours.
+
+
+
+
+
+## Other Projects
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+
+<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug"> Rigley2-"FlappyBug"</a>
