@@ -24,3 +24,15 @@ Don't forget to update the media queries to make sure everyone can see your cont
 <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
 
 <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug"> Rigley2-"FlappyBug"</a>
+
+<div style="width:33%;background-image:url(https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif);background-size:cover;">
+<h3>Portfolio</h3>
+</div>
+
+<div style="width:33%;background-image:url(https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif);background-size:cover;">
+<h3>Portfolio</h3>
+</div>
+
+<div style="width:33%;background-image:url(https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif);background-size:cover;">
+<h3>Portfolio</h3>
+</div>
