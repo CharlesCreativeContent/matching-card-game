@@ -33,9 +33,9 @@ Don't forget to update the media queries to make sure everyone can see your cont
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/DemoDay">Travelara.org</a>
       <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/DemoDay">
           <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%" alt="Travelara.org"/>
         </a>
     </td>
